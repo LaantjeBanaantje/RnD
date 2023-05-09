@@ -1,4 +1,4 @@
-package RnD;
+package testfx;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
